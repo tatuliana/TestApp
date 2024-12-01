@@ -1,4 +1,4 @@
-#TestApp
+# TestApp
 
 **TestApp** is a lightweight iOS application designed to demonstrate the features of frameworks deployed using **XCUIBuilder**. It provides a simple UI for testing and experimenting with various automation patterns, including **Screen Transition Chaining** and **Self Chaining**.
 
